@@ -1,5 +1,6 @@
 module KMeanClusttering
 
-greet() = print("Hello World!")
+include("Tools.jl");
+include("KModels.jl");
 
 end # module
